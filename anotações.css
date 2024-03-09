@@ -1,0 +1,97 @@
+/* Tabela */
+table {
+  border-collapse: collapse;
+  margin-top: 8px;
+  border: 2px solid black;
+  width: 100%;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 500;
+  text-align: center;
+  font-size: 20px;
+}
+/* Tabela */
+
+/* td */
+td {
+  border: 2px solid black;
+  width: 50%;
+}
+/* td */
+
+/* th */
+th {
+  border: 2px solid black;
+}
+/* th */
+
+/* Code td */
+code {
+  font-weight: 900;
+}
+/* Code td */
+
+/* HR */
+hr {
+  width: 80%;
+  size: 5px;
+  color: black;
+  background-color: black;
+}
+/* HR */
+
+/* Elemento e Descrição tr */
+.colorido {
+  background-color: aqua;
+  font-weight: 900;
+}
+/* Elemento e Descrição tr */
+
+/* Button */
+.styled {
+  background-color: aqua;
+  margin-bottom: 8px;
+  border-radius: 5px;
+}
+/* Button */
+
+/* Textarea */
+label,
+textarea {
+  letter-spacing: 1px;
+}
+
+textarea {
+  text-align: left;
+  color: black;
+  background-color: aqua;
+  padding: 10px;
+  max-width: 100%;
+  line-height: 1.5;
+  border-radius: 5px;
+  border: 1px solid black;
+  box-shadow: 1px 1px 1px aqua;
+}
+
+.label {
+  /* text-align: left; */
+  display: block;
+  margin-bottom: 10px;
+}
+/* Textarea */
+
+/* Cabeçalho */
+.cabeçalho2 {
+  border: 2px solid aqua;
+}
+
+.cabeçalho {
+  background-color: black;
+  color: aqua;
+  line-height: 0;
+}
+
+.h1 {
+  font-weight: 100;
+  font-size: 60px;
+}
+/* Cabeçalho */

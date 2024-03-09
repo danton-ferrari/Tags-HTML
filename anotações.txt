@@ -1,0 +1,74 @@
+// --- Historia do Desenvolvimento Web --- //
+
+Vannevar Bush {
+  ano: 1945;
+  criação:: Memax;
+}
+
+Theodor Nelson (Ted) {
+  ano: 1960;
+  projeto:Xanadu;
+  Hipertexto: Hipermídia;
+}
+
+Arquitetura Cliente x Servidor {
+  Browser <-requisições-> Servidor;
+}
+
+Termos utilizados {
+  Front-end: Visual/Diagramação/Interface Usuário;
+  Back-end: Banco de Dados;
+  Full-stack: Ambos;
+}
+
+// --- HTML --- //
+
+Títulos {
+  <h1></h1>
+  <h2></h2>
+  <h3></h3>
+  <h4></h4>
+  <h5></h5>
+  <h6></h6>
+}
+
+Linha horizontal {
+  <hr>
+}
+
+Parágrafo {
+  <p></p>
+}
+
+Quebra de Linha {
+  <br>
+}
+
+Links {
+  <a href="url">Texto</a>
+}
+
+Imagens {
+  <img src="url" alt="alternatetext" title="title">
+}
+
+Tabelas {
+  <table>Criar a Tabela</table>
+  <th>Título</th>
+  <tr>Criar Linha</tr>
+  <td>Criar Coluna</td>
+}
+
+Formulários {
+  <form></form>
+}
+
+Inputs {
+  <input type="text"> # Exibe um campo de entrada de texto de linha única
+  <input type="radio"> # Exibe um botão de opções (para selecionar uma das muitas opções)
+  <input type="checkbox"> # Exibe uma caixa de seleções (para selecionar zero ou mais das muitas opções)
+  <input type="buton"> # Exibe um botão clicavel
+  <select></select> # Criar uma lista suspensa
+  <textarea></textarea> # Insere uma área de texto para o usuário digitar textos
+}
+
